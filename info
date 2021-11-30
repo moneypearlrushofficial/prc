@@ -1,0 +1,17 @@
+
+    "name": "PRC Token",
+    "website": "https://pearlrush.io",
+    "telegram": "https://t.me/prctoken",
+    "discord": "hull",
+    "twitter": "https://twitter.com/MoneyPearlRush1",
+    "description": "Pearl Rush Coin focus on the digitization of businesses, Staking, and Wealth creation and asset digitization and a Leading Decentralized Ecosystem in DeFi and Stake Sharing, real estate, e-commerce, media, transportation, e-banking etc. .",
+    "explorer": "https://bscscan.com/token/0x0f48128537ad795b70fe0ff505386ede303db185",
+    "type": "BEP20",
+    "symbol": "PRC",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x0f48128537ad795b70fe0ff505386ede303db185",
+    "vested": [],
+    "audits": []
+        
